@@ -2,6 +2,8 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
+#### NOTE: If you are downloading these files, be sure to unzip the .zip pod files.
+
 Time spent: **3** hours spent in total
 
 ## Feature Implementations
