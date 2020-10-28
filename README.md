@@ -24,7 +24,7 @@ The following **required** functionality is completed:
 <img src='http://g.recordit.co/50KMY6IIII.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 #### User can view comments on a post
-<img src='http://recordit.co/sDfy38cov1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/MHk6cCupyj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 #### User can add a new comment
 <img src='http://g.recordit.co/sDfy38cov1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
