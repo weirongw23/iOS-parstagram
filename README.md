@@ -1,19 +1,17 @@
-# Parstagram - Part II
+# Instagram
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
 #### NOTE: If you are downloading these files, be sure to unzip the .zip pod files.
 
-Time spent: **3** hours spent in total
-
 ## Feature Implementations
 
-The following **required** functionality is completed:
+The following functionalities are completed:
 
-- [x] User stays logged in across restarts. (1pt)
-- [x] User can log out. (1pt)
-- [x] User can view comments on a post. (3pts)
-- [x] User can add a new comment. (5pts)
+- [x] User stays logged in across restarts.
+- [x] User can log out.
+- [x] User can view comments on a post.
+- [x] User can add a new comment.
 
 ## Video Walkthrough
 
